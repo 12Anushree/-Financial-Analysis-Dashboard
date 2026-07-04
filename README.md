@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,11,20&height=200&section=header&text=Financial%20Analysis%20Dashboard&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Global%20Economic%20Intelligence&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,1,20&height=250&section=header&text=Financial%20Analysis%20Dashboard&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Global%20Economic%20Intelligence&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=💰+Global+GDP+Analysis;📈+Inflation+Trends+2020-2023;🌍+Trade+%26+FDI+Insights;📊+200%2B+Countries+Analyzed"/>
@@ -83,12 +83,7 @@ An interactive **Financial Analysis Dashboard** analyzing global economic health
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><div align="center">
 
-
-<a href="www.linkedin.com/in/anushree-saha-4bb3a4368"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:riyaggit58@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
+ 
 ## 📬 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Let's Connect!
 
 <div align="center">
@@ -114,7 +109,7 @@ An interactive **Financial Analysis Dashboard** analyzing global economic health
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,1,20&height=250&section=footer&text=⭐%20Star%20this%20repo%20if%20you%20found%20it%20helpful!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,1,20&height=150&section=footer&text=⭐%20Star%20this%20repo%20if%20you%20found%20it%20helpful!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <div align="center">
 
