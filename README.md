@@ -109,7 +109,7 @@ An interactive **Financial Analysis Dashboard** analyzing global economic health
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,1,20&height=150&section=footer&text=⭐%20Star%20this%20repo%20if%20you%20found%20it%20helpful!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,13,20&height=150&section=footer&text=⭐%20Star%20this%20repo%20if%20you%20found%20it%20helpful!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <div align="center">
 
