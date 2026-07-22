@@ -9,7 +9,6 @@
 
 <br/>
 
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![WorldBank](https://img.shields.io/badge/World_Bank-002F5F?style=for-the-badge)
 
 
@@ -18,7 +17,7 @@
 </div>
 
 
-## 🎯 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30"> Overview
+## 🎯 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50"> Overview
 
 <img align="right" alt="Finance" width="380" src="https://cdn.dribbble.com/users/1626229/screenshots/17009902/media/2f5ee4c6d2fb1e0dc9c5ffbf1cd8dbcc.gif">
 
