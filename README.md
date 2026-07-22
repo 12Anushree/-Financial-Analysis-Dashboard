@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,1,20&height=250&section=header&text=Financial%20Analysis%20Dashboard&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Global%20Economic%20Intelligence&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8B12,20:87F527,40:2563eb,65:06b6d4,85:243D0E,100:67e8f9&height=250&section=header&text=Financial%20Analysis%20Dashboard&fontSize=42&fontColor=FFFFFF&animation=fadeOut&fontAlignY=40&desc=Global%20Economic%20Intelligence&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=💰+Global+GDP+Analysis;📈+Inflation+Trends+2020-2023;🌍+Trade+%26+FDI+Insights;📊+200%2B+Countries+Analyzed"/>
@@ -103,13 +103,13 @@ An interactive **Financial Analysis Dashboard** analyzing global economic health
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
 </a>
 
-<br/><br/>
+<br/> 
 
 ### 🚀 Let's build something amazing together!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,13,20&height=150&section=footer&text=⭐%20Star%20this%20repo%20if%20you%20found%20it%20helpful!&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8B12,20:87F527,40:2563eb,65:06b6d4,85:243D0E,100:67e8f9&height=250&section=footer&text=⭐%20Star%20this%20repo%20if%20you%20found%20it%20helpful!&fontSize=22&fontColor=FFFFFF&animation=FadeOut&fontAlignY=65"/>
 
 <div align="center">
 
